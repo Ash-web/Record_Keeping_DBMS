@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://github.com/Ash-web/Record_Keeping_DBMS/edit/gh-pages/index.md) and ![C:\Users\user\OneDrive\Pictures\Login.PNG]()
+[Link](https://github.com/Ash-web/Record_Keeping_DBMS/edit/gh-pages/index.md) and <img src="C:\Users\user\OneDrive\Pictures\Login.PNG]" alt="hi" class="inline"/>
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
