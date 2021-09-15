@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Record Keeping/Inventory Database Management System
 
 You can use the [editor on GitHub](https://github.com/Ash-web/Record_Keeping_DBMS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
